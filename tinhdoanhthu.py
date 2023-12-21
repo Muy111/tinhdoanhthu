@@ -1,6 +1,6 @@
-loaisp = ['Iphone 13', 'Iphone 13 pro', 'Iphone 13 pro max', 'Iphone 13 mini']
-giaban = [21.9,27.8,30.9,18.4]
-masp=[1,2,3,4]
+loaisp = ['Iphone 13', 'Iphone 13 pro', 'Iphone 13 pro max', 'Iphone 13 mini', 'Iphone 14']
+giaban = [21.9,27.8,30.9,18.4, 22]
+masp=[1,2,3,4,5]
 tongtien=[]
 tongluonghang=[]
 sl=0
